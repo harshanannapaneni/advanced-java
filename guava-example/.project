@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>HelloWorldMavenTest</name>
+	<name>guava-example</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1718911383739</id>
+			<id>1718911383747</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
